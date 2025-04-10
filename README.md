@@ -4,6 +4,10 @@
 - My personal interests include robotics, embedded systems, and aerospace
 - Contact me adrianrempel275@gmail.com
 
+### Currently Learning:
+- React
+- Altium Software
+
 ### Current Reading:
 - Microelectronic Circuits [Sedra/Smith]
 - The Art of Electronics [Paul Horowitz/Winfield Hill]
@@ -19,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/KiCad_symbol_logo.svg"
+       alt="KiCad" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ### Connect with me:
